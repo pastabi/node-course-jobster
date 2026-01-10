@@ -1,0 +1,902 @@
+[
+  {
+    "company": "Muxo",
+    "position": "Analog Circuit Design manager",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "San Patricio",
+    "createdAt": "2024-06-17T16:16:48Z"
+  },
+  {
+    "company": "Browsebug",
+    "position": "Administrative Officer",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Leworook",
+    "createdAt": "2025-02-28T20:27:00Z"
+  },
+  {
+    "company": "Topiczoom",
+    "position": "Sales Representative",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Sirājganj",
+    "createdAt": "2025-10-29T19:40:28Z"
+  },
+  {
+    "company": "Oyoyo",
+    "position": "Staff Scientist",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Lonya Chico",
+    "createdAt": "2024-08-26T22:49:05Z"
+  },
+  {
+    "company": "Eire",
+    "position": "Professor",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Arjawinangun",
+    "createdAt": "2024-03-25T23:09:48Z"
+  },
+  {
+    "company": "Rhynyx",
+    "position": "Teacher",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Radiměř",
+    "createdAt": "2025-08-01T02:52:52Z"
+  },
+  {
+    "company": "Shuffletag",
+    "position": "Assistant Manager",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Marulanda",
+    "createdAt": "2024-05-31T07:44:48Z"
+  },
+  {
+    "company": "Yakijo",
+    "position": "Assistant Professor",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Zhagang",
+    "createdAt": "2024-08-29T02:39:11Z"
+  },
+  {
+    "company": "Mymm",
+    "position": "Financial Advisor",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Osięciny",
+    "createdAt": "2025-11-04T03:58:25Z"
+  },
+  {
+    "company": "Browsebug",
+    "position": "Social Worker",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Rattanawapi",
+    "createdAt": "2024-06-01T14:00:54Z"
+  },
+  {
+    "company": "Mudo",
+    "position": "Payment Adjustment Coordinator",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Shirbīn",
+    "createdAt": "2025-03-18T09:02:59Z"
+  },
+  {
+    "company": "Yata",
+    "position": "Environmental Tech",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Yuyao",
+    "createdAt": "2024-12-28T22:14:17Z"
+  },
+  {
+    "company": "Browsebug",
+    "position": "Chemical Engineer",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Caper",
+    "createdAt": "2025-04-08T13:58:26Z"
+  },
+  {
+    "company": "Skajo",
+    "position": "Nuclear Power Engineer",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Kamień Pomorski",
+    "createdAt": "2025-05-23T21:25:29Z"
+  },
+  {
+    "company": "Rhynyx",
+    "position": "Graphic Designer",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Longquan",
+    "createdAt": "2025-03-03T21:06:41Z"
+  },
+  {
+    "company": "Zoombeat",
+    "position": "General Manager",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Lavia",
+    "createdAt": "2025-02-22T10:27:23Z"
+  },
+  {
+    "company": "Pixoboo",
+    "position": "Senior Sales Associate",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Daogao",
+    "createdAt": "2025-04-01T15:51:45Z"
+  },
+  {
+    "company": "Edgeblab",
+    "position": "Executive Secretary",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Zdiby",
+    "createdAt": "2024-01-02T20:59:10Z"
+  },
+  {
+    "company": "Bluezoom",
+    "position": "VP Product Management",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Maranganí",
+    "createdAt": "2024-02-09T03:42:49Z"
+  },
+  {
+    "company": "Kayveo",
+    "position": "Structural Engineer",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Vlasenica",
+    "createdAt": "2025-12-12T22:14:45Z"
+  },
+  {
+    "company": "Kwideo",
+    "position": "Structural Analysis Engineer",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "London",
+    "createdAt": "2025-02-03T14:58:57Z"
+  },
+  {
+    "company": "Oyoloo",
+    "position": "Editor",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Lijia",
+    "createdAt": "2025-08-05T18:40:41Z"
+  },
+  {
+    "company": "Quamba",
+    "position": "Actuary",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Meghrashen",
+    "createdAt": "2025-08-05T08:36:53Z"
+  },
+  {
+    "company": "Jabberstorm",
+    "position": "Marketing Manager",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Ikryanoye",
+    "createdAt": "2024-02-08T19:49:15Z"
+  },
+  {
+    "company": "Izio",
+    "position": "Dental Hygienist",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Dingshan",
+    "createdAt": "2024-04-14T21:47:32Z"
+  },
+  {
+    "company": "Oyondu",
+    "position": "Recruiter",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Umabay",
+    "createdAt": "2025-02-28T05:36:47Z"
+  },
+  {
+    "company": "Rooxo",
+    "position": "Librarian",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Daminggong",
+    "createdAt": "2025-12-13T23:09:38Z"
+  },
+  {
+    "company": "Camimbo",
+    "position": "Cost Accountant",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Fontenay-sous-Bois",
+    "createdAt": "2024-07-29T18:10:57Z"
+  },
+  {
+    "company": "Abata",
+    "position": "Staff Scientist",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Barakī Barak",
+    "createdAt": "2024-06-10T21:28:28Z"
+  },
+  {
+    "company": "Jabbercube",
+    "position": "Desktop Support Technician",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Araguaína",
+    "createdAt": "2025-11-20T08:46:54Z"
+  },
+  {
+    "company": "Zooxo",
+    "position": "Professor",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Parys",
+    "createdAt": "2024-11-26T00:16:46Z"
+  },
+  {
+    "company": "Wordpedia",
+    "position": "Operator",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Belköl",
+    "createdAt": "2024-12-17T03:53:38Z"
+  },
+  {
+    "company": "Rhyzio",
+    "position": "Staff Scientist",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Chigorodó",
+    "createdAt": "2026-01-06T13:40:15Z"
+  },
+  {
+    "company": "Pixoboo",
+    "position": "Social Worker",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Duma",
+    "createdAt": "2025-01-03T06:28:26Z"
+  },
+  {
+    "company": "Ooba",
+    "position": "Account Coordinator",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Liqiao",
+    "createdAt": "2025-12-11T22:20:38Z"
+  },
+  {
+    "company": "Bubblebox",
+    "position": "Human Resources Manager",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Chekmagush",
+    "createdAt": "2024-01-27T14:39:23Z"
+  },
+  {
+    "company": "Vipe",
+    "position": "Speech Pathologist",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Santa Cruz do Sul",
+    "createdAt": "2024-04-28T02:38:36Z"
+  },
+  {
+    "company": "Voomm",
+    "position": "Web Designer III",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Hengliang",
+    "createdAt": "2024-07-16T06:23:05Z"
+  },
+  {
+    "company": "Linkbuzz",
+    "position": "Teacher",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "San Francisco",
+    "createdAt": "2024-02-03T19:15:25Z"
+  },
+  {
+    "company": "Realbridge",
+    "position": "Internal Auditor",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Chwałowice",
+    "createdAt": "2024-04-28T14:38:21Z"
+  },
+  {
+    "company": "Skinder",
+    "position": "Geological Engineer",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Toulouse",
+    "createdAt": "2025-10-12T10:33:16Z"
+  },
+  {
+    "company": "Zoonoodle",
+    "position": "Recruiting Manager",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Taihua",
+    "createdAt": "2024-10-21T19:56:29Z"
+  },
+  {
+    "company": "Wordtune",
+    "position": "VP Accounting",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Bungur",
+    "createdAt": "2024-12-17T13:22:35Z"
+  },
+  {
+    "company": "Edgewire",
+    "position": "Librarian",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Jijiazhuang",
+    "createdAt": "2024-10-26T19:25:47Z"
+  },
+  {
+    "company": "Jabberbean",
+    "position": "Professor",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Chishan",
+    "createdAt": "2025-03-04T22:20:50Z"
+  },
+  {
+    "company": "Skyndu",
+    "position": "Media Manager IV",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Baixo Guandu",
+    "createdAt": "2025-06-29T22:13:47Z"
+  },
+  {
+    "company": "Topicware",
+    "position": "Food Chemist",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Gaohu",
+    "createdAt": "2025-03-26T17:46:56Z"
+  },
+  {
+    "company": "Edgetag",
+    "position": "Chief Design Engineer",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Maronge",
+    "createdAt": "2025-02-27T03:20:40Z"
+  },
+  {
+    "company": "Quinu",
+    "position": "Web Developer II",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Berlin",
+    "createdAt": "2024-08-30T15:57:10Z"
+  },
+  {
+    "company": "Demivee",
+    "position": "Graphic Designer",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Ar Rudayyif",
+    "createdAt": "2025-01-07T06:39:29Z"
+  },
+  {
+    "company": "Babblestorm",
+    "position": "Speech Pathologist",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Calamba",
+    "createdAt": "2025-08-23T17:09:43Z"
+  },
+  {
+    "company": "Abatz",
+    "position": "Human Resources Assistant I",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Dnestrovsc",
+    "createdAt": "2024-03-28T17:11:25Z"
+  },
+  {
+    "company": "Oyoyo",
+    "position": "Social Worker",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Xinxu",
+    "createdAt": "2025-08-17T07:24:30Z"
+  },
+  {
+    "company": "Meeveo",
+    "position": "Automation Specialist I",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Villa Lugano",
+    "createdAt": "2025-07-08T22:29:18Z"
+  },
+  {
+    "company": "Avavee",
+    "position": "Research Assistant I",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Apóstoles",
+    "createdAt": "2025-04-27T17:27:11Z"
+  },
+  {
+    "company": "Skinix",
+    "position": "Web Designer III",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Kallar Kahār",
+    "createdAt": "2025-11-20T18:09:56Z"
+  },
+  {
+    "company": "Feedfish",
+    "position": "Budget/Accounting Analyst I",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Loma Bonita",
+    "createdAt": "2024-01-08T15:13:33Z"
+  },
+  {
+    "company": "Teklist",
+    "position": "Sales Associate",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Taiyu",
+    "createdAt": "2025-11-10T15:56:28Z"
+  },
+  {
+    "company": "Jaxspan",
+    "position": "Senior Cost Accountant",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Thompson",
+    "createdAt": "2024-02-27T10:36:50Z"
+  },
+  {
+    "company": "Eabox",
+    "position": "Human Resources Assistant III",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Madala",
+    "createdAt": "2024-03-11T06:03:57Z"
+  },
+  {
+    "company": "Blognation",
+    "position": "Biostatistician II",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Kumanis",
+    "createdAt": "2024-12-17T01:00:16Z"
+  },
+  {
+    "company": "Yodo",
+    "position": "Sales Representative",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Yashiga",
+    "createdAt": "2025-09-24T17:04:45Z"
+  },
+  {
+    "company": "Flipopia",
+    "position": "Research Nurse",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Västerås",
+    "createdAt": "2025-02-03T09:42:49Z"
+  },
+  {
+    "company": "Wikivu",
+    "position": "Geologist II",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Linshui",
+    "createdAt": "2025-03-23T11:59:47Z"
+  },
+  {
+    "company": "Skiptube",
+    "position": "Biostatistician II",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Don Tan",
+    "createdAt": "2024-01-29T05:30:38Z"
+  },
+  {
+    "company": "Meevee",
+    "position": "Product Engineer",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Kisarazu",
+    "createdAt": "2024-09-19T13:32:42Z"
+  },
+  {
+    "company": "Twitternation",
+    "position": "Nurse",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Jurangjero",
+    "createdAt": "2024-03-02T02:00:36Z"
+  },
+  {
+    "company": "Gabtype",
+    "position": "Marketing Manager",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Jian’ou",
+    "createdAt": "2024-03-03T02:03:55Z"
+  },
+  {
+    "company": "Vitz",
+    "position": "Web Designer III",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Bobowa",
+    "createdAt": "2025-12-05T08:23:34Z"
+  },
+  {
+    "company": "Pixope",
+    "position": "Environmental Tech",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Dorūd",
+    "createdAt": "2024-08-28T06:32:31Z"
+  },
+  {
+    "company": "Edgepulse",
+    "position": "Media Manager II",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Calgary",
+    "createdAt": "2024-01-09T22:35:43Z"
+  },
+  {
+    "company": "Ozu",
+    "position": "Data Coordinator",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Bomadi",
+    "createdAt": "2024-10-30T05:19:37Z"
+  },
+  {
+    "company": "Livetube",
+    "position": "Professor",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Lobitos",
+    "createdAt": "2024-04-05T04:21:10Z"
+  },
+  {
+    "company": "Edgeify",
+    "position": "Technical Writer",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Gastello",
+    "createdAt": "2025-01-18T22:48:42Z"
+  },
+  {
+    "company": "Quinu",
+    "position": "VP Quality Control",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Mačkovec",
+    "createdAt": "2025-03-07T10:04:41Z"
+  },
+  {
+    "company": "Dynava",
+    "position": "Research Assistant IV",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Markaz Mudhaykirah",
+    "createdAt": "2024-09-30T05:37:43Z"
+  },
+  {
+    "company": "Pixonyx",
+    "position": "Statistician III",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Gunjur Kuta",
+    "createdAt": "2024-06-25T23:46:05Z"
+  },
+  {
+    "company": "Divavu",
+    "position": "Assistant Professor",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Dongtuan",
+    "createdAt": "2025-10-27T06:01:34Z"
+  },
+  {
+    "company": "Voolia",
+    "position": "VP Product Management",
+    "status": "pending",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Mawa",
+    "createdAt": "2024-02-09T11:34:49Z"
+  },
+  {
+    "company": "Dynazzy",
+    "position": "Assistant Manager",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Dagar",
+    "createdAt": "2024-12-11T20:54:02Z"
+  },
+  {
+    "company": "Dynazzy",
+    "position": "Design Engineer",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Iranduba",
+    "createdAt": "2024-08-06T21:45:47Z"
+  },
+  {
+    "company": "Oyoba",
+    "position": "Speech Pathologist",
+    "status": "declined",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Elbasan",
+    "createdAt": "2025-12-03T15:05:46Z"
+  },
+  {
+    "company": "Oloo",
+    "position": "Speech Pathologist",
+    "status": "declined",
+    "jobType": "part-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Dampol",
+    "createdAt": "2025-04-04T12:47:18Z"
+  },
+  {
+    "company": "Wikibox",
+    "position": "VP Product Management",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Sumberbatas",
+    "createdAt": "2025-06-10T04:57:50Z"
+  },
+  {
+    "company": "Photobug",
+    "position": "Editor",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Lantang",
+    "createdAt": "2024-04-04T01:25:32Z"
+  },
+  {
+    "company": "Zoovu",
+    "position": "Director of Sales",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Garupá",
+    "createdAt": "2024-08-29T19:41:41Z"
+  },
+  {
+    "company": "Mydeo",
+    "position": "Web Developer I",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Stony Hill",
+    "createdAt": "2025-08-17T11:40:37Z"
+  },
+  {
+    "company": "Yakitri",
+    "position": "Biostatistician II",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Bente",
+    "createdAt": "2025-12-20T21:37:41Z"
+  },
+  {
+    "company": "Wordtune",
+    "position": "Operator",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Albuera",
+    "createdAt": "2025-04-05T13:28:02Z"
+  },
+  {
+    "company": "Fatz",
+    "position": "Accountant II",
+    "status": "pending",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Johor Bahru",
+    "createdAt": "2024-08-10T02:25:20Z"
+  },
+  {
+    "company": "Chatterbridge",
+    "position": "Graphic Designer",
+    "status": "interview",
+    "jobType": "part-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Hedi",
+    "createdAt": "2024-03-14T00:38:36Z"
+  },
+  {
+    "company": "Pixonyx",
+    "position": "Research Assistant II",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Chahe",
+    "createdAt": "2025-06-26T06:44:25Z"
+  },
+  {
+    "company": "Quinu",
+    "position": "Geological Engineer",
+    "status": "declined",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Kuangsan",
+    "createdAt": "2025-12-07T12:18:09Z"
+  },
+  {
+    "company": "Flashdog",
+    "position": "Food Chemist",
+    "status": "interview",
+    "jobType": "full-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Buštěhrad",
+    "createdAt": "2025-02-20T01:53:05Z"
+  },
+  {
+    "company": "Vinte",
+    "position": "Administrative Officer",
+    "status": "pending",
+    "jobType": "part-time",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Seren Barat",
+    "createdAt": "2025-01-24T04:27:48Z"
+  },
+  {
+    "company": "Jaxspan",
+    "position": "VP Accounting",
+    "status": "pending",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Priupskiy",
+    "createdAt": "2025-12-26T14:19:12Z"
+  },
+  {
+    "company": "Skajo",
+    "position": "Clinical Specialist",
+    "status": "interview",
+    "jobType": "internship",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Pancoran",
+    "createdAt": "2025-05-16T14:36:22Z"
+  },
+  {
+    "company": "Skyba",
+    "position": "Accountant II",
+    "status": "declined",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Zhenxing",
+    "createdAt": "2025-03-03T16:05:05Z"
+  },
+  {
+    "company": "Dynava",
+    "position": "Junior Executive",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Primero de Mayo",
+    "createdAt": "2024-03-27T11:00:16Z"
+  },
+  {
+    "company": "Riffwire",
+    "position": "Product Engineer",
+    "status": "interview",
+    "jobType": "remote",
+    "createdBy": "695ed9838f7a8c5e2f2f9945",
+    "jobLocation": "Bryukhovetskaya",
+    "createdAt": "2024-01-06T08:09:55Z"
+  }
+]

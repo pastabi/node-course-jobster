@@ -5,7 +5,6 @@ const mongoose = require("mongoose");
 const moment = require("moment");
 
 const getAllJobs = async (req, res) => {
-  console.log(req.query);
   const { status, jobType, sort, search } = req.query;
   const queryObject = { createdBy: req.user.userId };
 
